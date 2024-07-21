@@ -1,6 +1,7 @@
 # NUXT SHOPPING CART
 
 <div style="display:flex">
+<img align="center" alt="vuejs" src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
 </div>
@@ -16,6 +17,7 @@
 
 
 ## 🚀 Technologies
+* Nuxt
 * Vue
 * Vuetify
 * Pinia
